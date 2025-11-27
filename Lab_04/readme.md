@@ -20,10 +20,9 @@ Dzięki niemu wiemy, czy nasze modele są:
 
 ##### 🔹 **Dla klasyfikacji binarnej:**
 
-* przewidywanie zawsze większościowej klasy,
 * losowy klasyfikator (random guess),
 * prosty model logistyczny z domyślnymi parametrami,
-* model „zero rule” (ZeroR): przewiduje zawsze najczęstszy wynik.
+* model „zero rule” (ZeroR): przewiduje zawsze najczęstszy wynik (przewidywanie zawsze większościowej klasy).
 
 ##### 🔹 **Dla klasyfikacji wieloklasowej:**
 
